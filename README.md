@@ -11,7 +11,7 @@
 In this project I was interested in using Sydney's Airbnb data from 2018 to 2019 to understand how beach proximity influences different listing aspects:
 
 1. What neighborhoods are close to the beach?
-2. What factors about an individual contributed to salary?
+2. Are listings from different neighborhood categories different in number of bedrooms and accomodations?
 3. Does price change according to neighborhood category?
 4. Is there a difference between summer and winter availability depending on neighborhood category?
 
